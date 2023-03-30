@@ -172,11 +172,11 @@ nav > button {
   align-items: flex-start;
  
  }
-
- @media screen and (max-width: 400px) {
-   nav h1 {
+@media screen and (max-width: 450px) {
+   .nav_details{
      display: none;
    }
+   
  }
 
  @media screen and (max-width: 850px) {
