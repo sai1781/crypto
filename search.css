@@ -7,7 +7,7 @@ body{
     height: auto;
     display: flex;
     flex-direction: column;
-    /* justify-content: center; */
+    justify-content: center;
     align-items: center;
     gap: 3rem;
     background-color: #85FFBD;
@@ -37,4 +37,10 @@ table{
 #search_field{
     width: 50%;
 }
+@media screen and (max-width: 450px) {
+    .main_div{
+        width: auto;
+    }
+    
+  }
 
