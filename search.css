@@ -7,7 +7,7 @@ body{
     height: auto;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+/*     justify-content: center; */
     align-items: center;
     gap: 3rem;
     background-color: #85FFBD;
